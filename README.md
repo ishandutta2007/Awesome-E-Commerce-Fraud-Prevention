@@ -57,9 +57,9 @@ Below is the list of top SaaS fraud prevention platforms, sorted by **Company Re
 
 The open-source ecosystem for e-commerce fraud prevention provides transparent algorithms, graph databases, and machine learning pipelines for custom tech stacks.
 
-Below are top open-source projects sorted by **GitHub Star Count** (descending order):
+Below are top open-source projects sorted by **GitHub Stars_Count** (descending order):
 
-| Repository | Description | GitHub Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Fraud Detection Handbook (Dataiku)](https://github.com/dataiku/fraud-detection-handbook)** | 📘 **Comprehensive guide & reproducible code for credit card fraud detection.** Covers machine learning models, imbalanced data, sequential features, and cost-sensitive evaluation metrics in Python. | [<img src="https://img.shields.io/github/stars/dataiku/fraud-detection-handbook?style=social&color=white" alt="Stars"/>](https://github.com/dataiku/fraud-detection-handbook/stargazers) |
 | **[Tirreno](https://github.com/tirreno/tirreno)** | 🛡️ **Universal open-source analytics & fraud prevention platform.** Built with PHP 8 & PostgreSQL. Detects account takeover (ATO), malicious bots, repeat registration fraud, and checks IP/email reputation for web apps & e-commerce. | [<img src="https://img.shields.io/github/stars/tirreno/tirreno?style=social&color=white" alt="Stars"/>](https://github.com/tirreno/tirreno/stargazers) |
@@ -75,7 +75,7 @@ Contributions are warmly welcome! Please follow these simple guidelines:
 1. Fork this repository.
 2. Edit `README.md` to add or update your tool/project.
 3. Ensure all SaaS listings include **transparent starting prices**, **free tier/trial limits**, and **company scale metrics**.
-4. Ensure open-source projects feature working GitHub repository links and star badges.
+4. Ensure open-source projects feature working GitHub repository links and Stars_Badges.
 5. Create a Pull Request with a clear description of your additions.
 
 ---
@@ -104,10 +104,19 @@ Thank you for supporting open-source software and fraud prevention transparency!
 
 - This list is community-curated and provided for informational purposes only.
 - E-commerce fraud prevention platforms process sensitive PII and financial cardholder data; always ensure PCI DSS, GDPR, and SOC2 compliance when integrating solutions.
-- Pricing metrics, valuations, and star counts are regularly updated but subject to vendor change. Always verify pricing with respective SaaS vendors before enterprise procurement.
+- Pricing metrics, valuations, and Stars_Counts are regularly updated but subject to vendor change. Always verify pricing with respective SaaS vendors before enterprise procurement.
 
 ---
 
 <p align="center">
   Maintained with ❤️ for e-commerce merchants, risk analysts, payment engineers, and security researchers worldwide.
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-E-Commerce-Fraud-Prevention&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-E-Commerce-Fraud-Prevention_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-E-Commerce-Fraud-Prevention_growth.svg">
+  </picture>
+</a>
